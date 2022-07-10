@@ -1,0 +1,2 @@
+[workspace]
+members = [ "libexample-sys", "reproducer" ]
